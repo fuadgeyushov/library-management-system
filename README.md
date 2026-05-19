@@ -14,19 +14,19 @@ This production-grade Core Java application serves as a fully independent **File
 
 ## Advanced Technical Architecture (Grading Matrix Adherence)
 
-### 1. Object-Oriented Programming (OOP) Structure (25 Points)
+### 1. Object-Oriented Programming (OOP) Structure 
 * **Inheritance & Hierarchy:** Utilizes unified polymorphic patterns mapping distinct business layers.
 * **Abstraction:** Implements abstract base structures (`LibraryItem` and `Member`) alongside decoupled contractual behavioral boundaries defined by the `Borrowable` interface.
 
-### 2. Encapsulation & Robust Validations (10 Points)
+### 2. Encapsulation & Robust Validations 
 * Strict access isolation is enforced by marking all state fields across models as `private`. 
 * Setter chains run dynamic parameter evaluations (e.g., boundary array validations like `type < 1 || type > 3`) preventing logical errors before runtime objects save states.
 
-### 3. Collections & Generics Framework (15 Points)
+### 3. Collections & Generics Framework 
 * Implements high-performance memory configurations (`HashMap<String, T>`) inside data engines to ensure immediate lookup speeds.
 * Eliminates boilerplate duplication by establishing type-safe execution wrapper scopes through custom Java Generics (`SearchResult<T>`).
 
-### 4. Custom Exception Handling Layer (10 Points)
+### 4. Custom Exception Handling Layer 
 * Business model constraints do not rely on raw print triggers. The core engine safely fires targeted runtime exceptions like `BorrowLimitExceededException` or `ItemNotAvailableException` which are caught upper-level in `Main.java` to secure crash-free operation.
 
 ---
