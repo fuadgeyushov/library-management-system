@@ -1,6 +1,6 @@
 # File-Based Robust Library Management System
 
-## 👤 Student Information
+## Student Information
 * **Name / Surname:** Fuad Geyushov
 * **Institution:** Azerbaijan Technical University (AzTU)
 * **Major:** Computer Engineering
@@ -9,10 +9,10 @@
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 This production-grade Core Java application serves as a fully independent **File-Based Library Management System**. Built strictly from scratch, the system manages three dynamic subscription levels (`Basic`, `Silver`, `Gold`) and tracks continuous states across multiple library item classes (`Book`, `Magazine`, `Thesis`). Data persistence is handled via structural text-based streams instead of localized relational engine tools.
 
-## 🛠️ Advanced Technical Architecture (Grading Matrix Adherence)
+## Advanced Technical Architecture (Grading Matrix Adherence)
 
 ### 1. Object-Oriented Programming (OOP) Structure (25 Points)
 * **Inheritance & Hierarchy:** Utilizes unified polymorphic patterns mapping distinct business layers.
@@ -31,7 +31,7 @@ This production-grade Core Java application serves as a fully independent **File
 
 ---
 
-## 📂 Project Directory Structure
+## Project Directory Structure
 ```text
 src/
 ├── main/
