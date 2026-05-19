@@ -1,0 +1,5 @@
+B2,Java Proqramlasdirma,Ayan Aliyeva,true,Book
+M1,Tech Magazine v.5,Tech Corp,true,Magazine
+5,Kimya,Nihat Rustemli,true,Book
+T1,AI in Finance 2026,Elvin Isayev,true,Thesis
+B1,OOP Esaslari,Resad Memmedov,true,Book
